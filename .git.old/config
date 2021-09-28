@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "pessoas-api"]
+	url = https://github.com/humbertobz/pessoas-api.git
+	fetch = +refs/heads/*:refs/remotes/pessoas-api/*
